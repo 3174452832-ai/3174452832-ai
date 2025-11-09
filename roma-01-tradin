@@ -1,0 +1,5 @@
+# 设置远程仓库（替换为您的实际仓库URL）
+git remote add origin https://github.com/3174452832-ai/roma-01-trading.git
+
+# 推送到GitHub
+git push -u origin master
